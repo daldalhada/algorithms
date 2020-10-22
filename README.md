@@ -18,5 +18,5 @@ algorithms practice
     - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/Subsets3/main.cpp">Code</a>
 
 * Subsets4: 
-    - <a href="https://programmers.co.kr/learn/courses/30/lessons/43165" tartget="_blank">Question</a>
+    - <a href="https://programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">Question</a>
     - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/Subsets4/main.cpp">Code</a>
