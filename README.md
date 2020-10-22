@@ -10,3 +10,5 @@ algorithms practice
     - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/Subsets/main.cpp">Code</a>
 
 * Subsets2: 
+    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/Subsets2/%EB%AC%B8%EC%A0%9C.PNG ">Question</a>
+    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/Subsets2/main.cpp">Code</a>
