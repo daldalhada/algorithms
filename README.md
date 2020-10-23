@@ -46,3 +46,14 @@
 * 2 (동전 교환)
     - [Question](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/2/%EB%AC%B8%EC%A0%9C.PNG)
     - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/2/main.cpp)
+
+
+
+
+<BR>
+
+## 3. Stack
+
+* 1 (k진수 출력)
+    - [Question](https://github.com/daldalhada/algorithms/blob/main/Stack/1/%EB%AC%B8%EC%A0%9C.PNG)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/Stack/main.cpp)
