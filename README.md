@@ -42,3 +42,7 @@
 * 1 (가방 문제)
     - [Question](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/1/%EB%AC%B8%EC%A0%9C.PNG)
     - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/1/main.cpp)
+
+* 2 (동전 교환)
+    - [Question](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/2/%EB%AC%B8%EC%A0%9C.PNG)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/2/main.cpp)
