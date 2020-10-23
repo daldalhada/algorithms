@@ -1,6 +1,8 @@
 # algorithms
-algorithms practice
 
+### - algorithms practice -
+
+<BR>
 
 
 1. DFS
@@ -20,3 +22,12 @@ algorithms practice
 * 완전탐색4 
     - <a href="https://programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">Question</a>
     - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/4/main.cpp">Code</a>
+
+
+<BR>
+
+2. Dynamic_Programming
+
+* 1 (정수 삼각형)
+    - <a href="https://www.acmicpc.net/problem/1932" target="_blank" >Question</a>
+    - <a href="https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/1/main.cpp">Code</a>
