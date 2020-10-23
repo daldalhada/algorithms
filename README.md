@@ -8,26 +8,36 @@
 1. DFS
 
 * 완전탐색1
-    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/1/%EB%AC%B8%EC%A0%9C.PNG ">Question</a>
-    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/1/main.cpp">Code</a>
+    - [Question](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/1/%EB%AC%B8%EC%A0%9C.PNG)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/1/main.cpp)
 
 * 완전탐색2
-    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/2/%EB%AC%B8%EC%A0%9C.PNG ">Question</a>
-    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/2/main.cpp">Code</a>
+    - [Question](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/2/%EB%AC%B8%EC%A0%9C.PNG)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/2/main.cpp)
 
 * 완전탐색3 
-    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/3/%EB%AC%B8%EC%A0%9C.PNG ">Question</a>
-    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/3/main.cpp">Code</a>
+    - [Question](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/3/%EB%AC%B8%EC%A0%9C.PNG)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/3/main.cpp)
 
 * 완전탐색4 
-    - <a href="https://programmers.co.kr/learn/courses/30/lessons/43165" target="_blank">Question</a>
-    - <a href="https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/4/main.cpp">Code</a>
+    - [Question](https://programmers.co.kr/learn/courses/30/lessons/43165)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/4/main.cpp)
+
+<BR>
+
+1. Dynamic_Programming
+
+* 1 (정수 삼각형)
+    - [Question](https://www.acmicpc.net/problem/1932)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/1/main.cpp)
+
 
 
 <BR>
 
-2. Dynamic_Programming
+* test
+ 
+[Link to Google](https://www.google.com/){: target="_blank"}
+<www.google.com>{: target="_blank"}
 
-* 1 (정수 삼각형)
-    - <a href="https://www.acmicpc.net/problem/1932" target="_blank" >Question</a>
-    - <a href="https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/1/main.cpp">Code</a>
+['test'](http://www.example.com/){: target="_blank" }
