@@ -31,14 +31,14 @@
 
 * 1 (정수 삼각형)
     - [Question](https://www.acmicpc.net/problem/1932)
-    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/1/main.cpp)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/BottomUp/1/main.cpp)
 
 * 2 (알리바바와 40인의 도둑)
-    - [Question](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/2/%EB%AC%B8%EC%A0%9C.PNG)
-    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/2/main.cpp)
+    - [Question](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/BottomUp/2/%EB%AC%B8%EC%A0%9C.PNG)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/BottomUp/2/main.cpp)
 
 ### 2-2 Knapsack Algorthm
 
-* 1 (정수 삼각형)
-    - [Question](https://www.acmicpc.net/problem/1932)
-    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/1/main.cpp)
+* 1 (가방 문제)
+    - [Question](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/1/%EB%AC%B8%EC%A0%9C.PNG)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/1/main.cpp)
