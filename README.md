@@ -5,7 +5,7 @@
 <BR>
 
 
-1. DFS
+## 1. DFS
 
 * 완전탐색1
     - [Question](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/1/%EB%AC%B8%EC%A0%9C.PNG)
@@ -25,7 +25,9 @@
 
 <BR>
 
-1. Dynamic_Programming
+## 2. Dynamic_Programming
+
+### 2-1 Bottom-up Algorithm
 
 * 1 (정수 삼각형)
     - [Question](https://www.acmicpc.net/problem/1932)
@@ -34,3 +36,9 @@
 * 2 (알리바바와 40인의 도둑)
     - [Question](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/2/%EB%AC%B8%EC%A0%9C.PNG)
     - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/2/main.cpp)
+
+### 2-2 Knapsack Algorthm
+
+* 1 (정수 삼각형)
+    - [Question](https://www.acmicpc.net/problem/1932)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/1/main.cpp)
