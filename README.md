@@ -66,4 +66,8 @@
 
 * 1 (카드2)
     - [Question](https://www.acmicpc.net/problem/2164)
-    - [Code](https://github.com/daldalhada/algorithms/blob/main/queue/1/main.cpp)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/Queue/1/main.cpp)
+
+* 2 (요세푸스 문제 0)
+    - [Question](https://www.acmicpc.net/problem/11866)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/Queue/2/main.cpp)
