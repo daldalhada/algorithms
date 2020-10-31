@@ -71,3 +71,7 @@
 * 2 (요세푸스 문제 0)
     - [Question](https://www.acmicpc.net/problem/11866)
     - [Code](https://github.com/daldalhada/algorithms/blob/main/Queue/2/main.cpp)
+
+* 3 (프린터 큐)
+    - [Question](https://www.acmicpc.net/problem/1966)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/Queue/3/main.cpp)
