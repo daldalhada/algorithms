@@ -62,6 +62,10 @@
     - [Question](https://www.acmicpc.net/problem/10773)
     - [Code](https://github.com/daldalhada/algorithms/blob/main/Stack/2/main.cpp)
 
+* 3 (괄호)
+    - [Question](https://www.acmicpc.net/problem/9012)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/Stack/3/main.cpp)
+
 
 <BR>
 
