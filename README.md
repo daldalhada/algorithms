@@ -58,6 +58,9 @@
     - [Question](https://github.com/daldalhada/algorithms/blob/main/Stack/1/%EB%AC%B8%EC%A0%9C.PNG)
     - [Code](https://github.com/daldalhada/algorithms/blob/main/Stack/1/main.cpp)
 
+* 2 (제로)
+    - [Question](https://www.acmicpc.net/problem/10773)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/Stack/2/main.cpp)
 
 
 <BR>
