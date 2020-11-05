@@ -35,9 +35,10 @@
 
 <BR>
 
-* 바이러스
+* 1 (바이러스)
     - [Question](https://www.acmicpc.net/problem/2606)
-    - [Code](https://github.com/daldalhada/algorithms/blob/main/DFS/Path/1/main.cpp)
+    - [Code-bfs](https://github.com/daldalhada/algorithms/blob/main/DFS/Path/1/bfs.cpp)
+    - [Code-dfs](https://github.com/daldalhada/algorithms/blob/main/DFS/Path/1/dfs.cpp)
 
 <br>
 
