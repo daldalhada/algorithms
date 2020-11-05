@@ -5,7 +5,13 @@
 <BR>
 
 
-## 1. DFS
+## 1. DFS&BFS
+
+<br>
+
+### 1.1 DFS - BruteForce
+
+<br>
 
 * 완전탐색1
     - [Question](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/1/%EB%AC%B8%EC%A0%9C.PNG)
@@ -24,6 +30,16 @@
     - [Code](https://github.com/daldalhada/algorithms/blob/main/DFS/BruteForce/4/main.cpp)
 
 <BR>
+
+### 1.2 Path(DFS&BFS)
+
+<BR>
+
+* 바이러스
+    - [Question](https://www.acmicpc.net/problem/2606)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DFS/Path/1/main.cpp)
+
+<br>
 
 ## 2. Dynamic_Programming
 
