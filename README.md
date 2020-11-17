@@ -71,6 +71,10 @@
     - [Question](https://www.acmicpc.net/problem/11399)
     - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/greedy/1/main.cpp)
 
+* 1 (동전0)
+    - [Question](https://www.acmicpc.net/problem/11047)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/greedy/2/main.cpp)
+
 <BR>
 
 ## 3. Stack
