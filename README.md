@@ -65,7 +65,11 @@
     - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/Knapsack/2/main.cpp)
 
 
+### 2-3 Greedy Algorthm
 
+* 1 (ATM)
+    - [Question](https://www.acmicpc.net/problem/11399)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/DynamicProgramming/greedy/1/main.cpp)
 
 <BR>
 
