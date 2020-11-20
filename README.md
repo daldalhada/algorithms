@@ -107,3 +107,12 @@
 * 3 (프린터 큐)
     - [Question](https://www.acmicpc.net/problem/1966)
     - [Code](https://github.com/daldalhada/algorithms/blob/main/Queue/3/main.cpp)
+
+
+<BR>
+
+## 4. Map
+
+* 1 (베스트 셀러)
+    - [Question](https://www.acmicpc.net/problem/1302)
+    - [Code](https://github.com/daldalhada/algorithms/blob/main/Map/1/main.cpp)
